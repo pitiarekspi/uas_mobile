@@ -19,6 +19,11 @@ Add this code by terminal before run the app :
 - flutter pub outdated
 - flutter pub upgrade --major-versions
 
+# PAGE
+
+![image](https://github.com/pitiarekspi/uas_mobile/assets/148306947/aad2970c-1510-4b09-a706-4fa03b7ee303)
+
+
 ## Getting Started
 
 Flutter is Google's SDK for crafting beautiful, fast user experiences for
