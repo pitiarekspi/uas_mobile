@@ -1,9 +1,3 @@
-# cooking_app
-
-Tugas Akhir Semester Pemrograman Mobile
-SYAH PUTRA
-211402125
-
 <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
@@ -15,7 +9,10 @@ SYAH PUTRA
 
 # Cooking_app
 
-Tugas Akhir Semester Pemrogramman Mobile
+Tugas Akhir Semester Pemrograman Mobile
+
+SYAH PUTRA
+211402125
 
 Add this code by terminal before run the app :
 - flutter pub get
